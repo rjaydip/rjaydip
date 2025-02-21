@@ -2,8 +2,8 @@
 ### 💬 Something about me...
 
 👨🏻‍💻 I’m currently working as the **Software developer** for the **Accenture** at **Bangalore, India**.
-📌 Previously, I served as 
-**Application Developer** for the **SSM Infotech Solution Pvt Ltd** at **Surat, India**.
+
+📌 Previously, I served as **Application Developer** for the **SSM Infotech Solution Pvt Ltd** at **Surat, India**.
 
 ### 🔬 I’m currently learning and exploring:
 - **Game Developement(C++, C#)**.
@@ -23,3 +23,4 @@
 - **Web API (ASP.NET Core Controller, Minimal API, WCF)**
 - **Game Development (C++, C#)**
 - **Database (SQL Server, PostgreSQL, mySQL, Oracle)**
+- **Other Knowledge Distributed Systems, Enterprise Solution, GitHub, PowerShell, System Design**
